@@ -1,0 +1,22 @@
+ul{
+    list-style: none;
+}
+li{
+    float: left;
+    padding: 5px;
+}
+nav{
+    padding: 10px;
+}
+h1{
+    padding: 10px
+}
+.btn-1{
+    border-radius: 20px;
+    padding: 5px;
+}
+#left{
+    float: left;
+
+}
+
